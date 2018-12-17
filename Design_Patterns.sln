@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Structural", "1 - Structural", "{41DC0581-D946-411C-B292-76F598F2BE51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Creational", "2 - Creational", "{A9104719-1096-47F2-B447-C1B7D13E79ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Behavioral", "3 - Behavioral", "{8B7E430F-C755-4213-9287-CF22C07D241D}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A16B5C7-4198-4D8D-863A-A52DC3DF97B1}
+	EndGlobalSection
+EndGlobal
