@@ -21,6 +21,7 @@ namespace FactoryMethod
                 car = factory.CreateCar();
                 car.ShowDetails();
 
+                //other car of de factory volks
                 factory = new FactoryVolks(CarsVolks.Golf);
                 car = factory.CreateCar();
                 car.ShowDetails();
