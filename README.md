@@ -1,6 +1,6 @@
-<h2>Design Patterns Examples</h2>
+<h2>Design Patterns Examples - GoF</h2>
 <h5>
-This project contains examples of application of the design pattern, all of which have been taken from various forums and discussions on the subject, in order to have small and simple examples of practical use.
+This project contains examples of application of the design pattern from the GoF Book, all of which have been taken from various forums and discussions on the subject, in order to have small and simple examples of practical use.
 <h5>
 
 <h3><b>Creational Pattern</b></h3>
